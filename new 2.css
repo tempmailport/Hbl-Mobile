@@ -1,0 +1,50 @@
+body 
+{
+  background-image: url('hb.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.sign-up-form
+
+{
+	width: 300px;
+	background: transparent  ;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+ margin-top: 80% ;
+
+	
+}
+input
+{
+	border-radius: 10px;
+	padding: 10px;
+	margin:10px -10px;
+	width:100%;
+	border: 1px solid #999;
+	outline: none;
+}
+
+
+button:hover {
+  opacity: 0.7;
+}
+button
+{
+	background-color: #106DA5;
+	color: white ;
+	width: 40%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 18px;
+	margin: 8px 0px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+}
